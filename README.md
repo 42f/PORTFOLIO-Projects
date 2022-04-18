@@ -17,10 +17,9 @@ data about real first names from a few European countries.
 ### 🏫 Projects made at 42 [2019 - 2022]
 
 
-2.PONG GAME: Team project at 42, creation of a website with Nestjs, Reactjs and
+1.PONG GAME: Team project at 42, creation of a website with Nestjs, Reactjs and
 Typescript consisting of a pong game and a chat.
-
-2.DOCKER: deployment of a docker container for a few services (Wordpress, MySQL,
+1.DOCKER: deployment of a docker container for a few services (Wordpress, MySQL,
 PHPMyAdmin).
 
 2.KUBERNETES: implementation of Kubernetes for nginx, wordpress, ftps, grafana,
